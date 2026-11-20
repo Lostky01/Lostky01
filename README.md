@@ -17,6 +17,4 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E60012&center=true&width=560&lines=Always+curious.;Always+learning.;Never+afraid+to+dive+deeper." alt="typing" />
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e60012,100:000000&height=100&section=footer" width="100%">
-</p>
+
